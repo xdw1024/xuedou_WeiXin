@@ -1,0 +1,14 @@
+﻿02:34:24 接受：
+
+02:34:24 接受：3333333333333
+
+02:46:55 接受：
+<xml><ToUserName><![CDATA[gh_00ea79ae2de7]]></ToUserName>
+<FromUserName><![CDATA[ooR9G0d0ivmXpWPLCG5wNgTid570]]></FromUserName>
+<CreateTime>1490496415</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哥很]]></Content>
+<MsgId>6401633357642571916</MsgId>
+</xml>
+02:47:05 接受：
+
